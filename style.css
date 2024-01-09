@@ -1,0 +1,19 @@
+
+
+
+.card {
+        margin: 0 auto; /* Added */
+        float: none; /* Added */
+        margin-bottom: 10px; /* Added */
+        border: 2px solid rgb(112, 152, 146);
+}
+.card-img-top {
+    background: black;
+}
+.card-body  {
+    text-align: center;
+}
+.card-title {
+    font-weight: 600;
+    font-size: 40px;
+}
